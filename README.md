@@ -34,7 +34,7 @@ python restoreOldVideo.py
 
 ## Screenshots
 
-[![Video Restoration using Python (Very Basic) - Demo](https://yt-embed.herokuapp.com/embed?v=z_AM4DsQHHo)](https://youtu.be/z_AM4DsQHHo "Video Restoration using Python (Very Basic) - Demo")
+![Video Restoration using Python (Very Basic) - Demo](https://youtu.be/z_AM4DsQHHo)
 
 ## Resources
 
