@@ -34,7 +34,7 @@ python restoreOldVideo.py
 
 ## Screenshots
 
-![demo.GIF](https://www.dropbox.com/s/t28cq9j8ljbdqpb/Demo.GIF?dl=0)
+![demo.GIF](Demo.GIF)
 
 ## Resources
 
