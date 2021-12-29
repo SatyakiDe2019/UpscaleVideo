@@ -34,7 +34,7 @@ python restoreOldVideo.py
 
 ## Screenshots
 
-![demo.GIF](Demo.GIF)
+![demo.GIF](https://youtu.be/z_AM4DsQHHo)
 
 ## Resources
 
